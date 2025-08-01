@@ -195,3 +195,51 @@ color: #474747;
     margin-top: 50px;
     margin-bottom: 50px;
 }
+.a{
+    display:flex;
+}
+.e{
+    width:1600px;
+    height:780px;
+}
+.f{
+    font-size: 35px;
+    font-weight:bold;
+    color: #181818;
+}
+.g{
+    color: #474747;
+    font-size: 16px;
+}
+.h{
+    width: 461px;
+    height: 64px;
+    border-radius: 5px;
+    border: none;
+    padding: 0px 20px;
+}
+.k{
+width: 461px;
+height: 180px;
+border-radius: 5px;
+border: none;
+padding: 20px 20px;
+}
+footer input[type="text"], footer input[type="email"], footer textarea{
+    display: block;
+    /* gap: 24px; */
+    margin-bottom: 24px;
+}
+.b{
+    margin-left:230px;
+    margin-right: 115px;
+    margin-top: 130px;
+}
+.c{
+    margin-right:230px;
+    margin-top: 130px;
+}
+#l{
+    margin-left:880px;
+    margin-top: 5px;
+}
