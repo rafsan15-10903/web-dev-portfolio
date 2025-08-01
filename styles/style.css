@@ -147,3 +147,51 @@ padding:0 100px;
 .skill-description{
     color:#757575;
 }
+.experience{
+    display:flex;
+}
+.Education .A{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.experience .class1 .B{
+    font-size: 30px;
+    color: #474747;
+    font-weight: bold;
+}
+.experience .B{
+font-size: 30px;
+    color: #474747;
+    font-weight: bold;
+}
+.experience .x{
+font-size: 25px;
+font-weight: bold;
+color: #474747;
+}
+.experience .y{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600px;
+}
+.experience .z{
+    font-size: 16px;
+    color: #757575;
+}
+.experience .Edu{
+    border-bottom: 1px solid lightgray;
+    
+}
+.experience .class2{
+    margin-top: -10px;
+    margin-left: 50px;
+    
+}
+#id{
+    margin-left: 480px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
